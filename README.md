@@ -24,7 +24,7 @@ I am a full-stack software developer and DevOps Cloud Engineer with four years o
 - 💬 Talk to me about cloud computing, security, career, and podcasts 
 - 📫 How to reach me: nyathirakanga@gmail.com
 - 😄 Pronouns: BaddieinTech/She/Her/Hers
-- ⚡ Fun fact: Checkout my [Linkedin](https://www.linkedin.com/in/christine-nyathira-kanga/) Community if you want to connect!
+- ⚡ Fun fact: Checkout my [Linkedin](https://www.linkedin.com/in/christine-nyathira-kanga/) profile if you want to connect!
 - 📝 [Resume]()
 
 **Languages and Tools:** 
