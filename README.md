@@ -27,7 +27,7 @@ Hello, I am Christine Nyathira, a software developer and cloud engineer, I major
 
 **Languages and Tools:** 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;
-![REACT]([https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
 ![VUE JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;&nbsp;
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;&nbsp;
@@ -44,7 +44,7 @@ Hello, I am Christine Nyathira, a software developer and cloud engineer, I major
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;&nbsp;
 
 
-![Christine's Github Stats](https://github-readme-stats.vercel.app/api?username=nyathirakj&count_private=true&show_icons=true&include_all_commits=true)
+![Christine's Github Stats](https://github-readme-stats.vercel.app/api?username=nyathirak&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyathirak&hide=TeX&layout=compact)
 
 <!--
