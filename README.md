@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, I am Christine Nyathira, a software developer and cloud engineer. I majored in Computer Networking and Security. I am a Certified AWS Solutions Architect and Certified in Cybersecurity. 
+Hello, I am Christine Nyathira, a software developer and cloud engineer. I majored in Computer Networking and Security. I am Certified in Cybersecurity and a Certified AWS Solutions Architect. 
 
-I am a full-stack software developer and DevOps Cloud Engineer with four years of experience working as a Software Engineer in cross-functional teams. My technology stack involves Tailwind CSS, Alpine JS, Laravel PHP, Livewire, MySQL, Javascript, Angular, Python and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in debunking true crime.
+My technology stack involves Tailwind CSS, Alpine JS, Laravel PHP, Livewire, MySQL, Javascript, Angular, Python and, HTML/CSS/Bootstrap. I am adept as a full-stack software developer and DevOps Cloud Engineer with four years of experience collaborating in cross-functional teams.  Besides programming, I have an immense interest in debunking true crime.
 
-- 🔭 I’m currently working on a legal management systems
+- 🔭 I’m currently working on a legal management system
 - 💬 Talk to me about cloud computing, security, career, and podcasts 
 - 📫 How to reach me: nyathirakanga@gmail.com
 - 😄 Pronouns: BaddieinTech/She/Her/Hers
