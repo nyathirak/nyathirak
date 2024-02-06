@@ -48,7 +48,7 @@ I am a full-stack software developer and DevOps Cloud Engineer with four years o
 <!--
 ![Christine's Github Stats](https://github-readme-stats.vercel.app/api?username=nyathirak&count_private=true&show_icons=true&include_all_commits=true)
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyathirak&hide=TeX&layout=full)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyathirak&hide=TeX&theme=nord)
 
 <!--
 **nyathirak/nyathirak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
