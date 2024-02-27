@@ -4,7 +4,7 @@
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🏗 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -20,8 +20,8 @@ Hello, I am Christine Nyathira, a software developer and cloud engineer. I major
 
 My technology stack involves Tailwind CSS, Alpine JS, Laravel PHP, Livewire, MySQL, Javascript, Angular, Python and, HTML/CSS/Bootstrap. I am adept as a full-stack software developer and DevOps Cloud Engineer with four years of experience collaborating in cross-functional teams.  Besides programming, I have an immense interest in debunking true crime.
 
-- 🔭 I’m currently working on a legal management system
-- 💬 Talk to me about cloud computing, security, career, and podcasts 
+- 👷🏾‍♀️ I’m currently working on a legal management system
+- 💬 Talk to me about cloud computing, security, coding, and podcasts 
 - 📫 How to reach me: nyathirakanga@gmail.com
 - 😄 Pronouns: BaddieinTech/She/Her/Hers
 - ⚡ Fun fact: Checkout my [Linkedin](https://www.linkedin.com/in/christine-nyathira-kanga/) profile if you want to connect!
