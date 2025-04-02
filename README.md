@@ -18,23 +18,23 @@ Here are some ideas to get you started:
 
 Hello, I am Christine Nyathira, a software developer and cloud engineer. I majored in Computer Networking and Security. I am Certified in Cybersecurity and a Certified AWS Solutions Architect. 
 
-My technology stack involves Tailwind CSS, Alpine JS, Laravel PHP, Livewire, MySQL, Javascript, Angular, Python and, HTML/CSS/Bootstrap. I am adept as a full-stack software developer and DevOps Cloud Engineer with four years of experience collaborating in cross-functional teams.  Besides programming, I have an immense interest in debunking true crime.
+My technology stack involves Python, Javascript, Next JS, Laravel PHP, MySQL, TailwindCSS  and, HTML/CSS/Bootstrap. I am adept as a full-stack software developer and DevOps Cloud Engineer with four years of experience collaborating in cross-functional teams.  Besides programming, I have an immense interest in debunking true crime.
 
-- 👷🏾‍♀️ I’m currently working on a legal management system
-- 💬 Talk to me about cloud computing, security, coding, and podcasts 
+- 👷🏾‍♀️ I’m currently working on a bunch of exciting ERP modules and an OpenAI-driven management system
+- 💬 Talk to me about coding, cloud computing, security, and podcasts 
 - 📫 How to reach me: nyathirakanga@gmail.com
 - 😄 Pronouns: BaddieinTech/She/Her/Hers
 - ⚡ Fun fact: Checkout my [Linkedin](https://www.linkedin.com/in/christine-nyathira-kanga/) profile if you want to connect!
 - 📝 [Resume]()
 
 **Languages and Tools:** 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
-![VUE JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;&nbsp;
-![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
+![VUE JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;
+![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
