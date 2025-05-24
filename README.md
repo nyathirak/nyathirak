@@ -24,8 +24,7 @@ My technology stack involves Python, JavaScript, Laravel PHP, and I am currently
 - 💬 Talk to me about coding, cloud computing, security, and podcasts 
 - 📫 How to reach me: nyathirakanga@gmail.com
 - ⚡ Checkout my [Linkedin](https://www.linkedin.com/in/christine-nyathira-kanga/) profile if you want to connect!
-- 📝 [Resume]()
-
+<!--
 **Languages and Tools:** 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
@@ -36,9 +35,9 @@ My technology stack involves Python, JavaScript, Laravel PHP, and I am currently
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-<!--
+
 ![Christine's Github Stats](https://github-readme-stats.vercel.app/api?username=nyathirak&count_private=true&show_icons=true&include_all_commits=true)
--->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyathirak&hide=TeX&theme=nordlayout=normal)
 
 <!--
