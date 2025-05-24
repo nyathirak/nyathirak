@@ -1,4 +1,4 @@
-### Hi there, I am Christine (BaddieinTech/She/Her/Hers) 👋
+### Hi there, I am Christine 👋
 
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Statistics
 - 👯 I’m looking to collaborate on ...
 -->
-
-Hello, I am Christine Nyathira, a software developer with a BSc major in Computer Networking and Security. I am Certified in Cybersecurity and an AWS Solutions Architect. 
-
-My technology stack involves Python, JavaScript, Laravel PHP, and I am currently tinkering with Jupyter Notebook. Besides programming, I have an immense interest in debunking true crime.
-
+- 📢 My Tech Stack: Python, JavaScript, Laravel PHP, Jupyter Notebook
 - 👷🏾‍♀️ I’m currently working on a bunch of exciting ERP modules and an OpenAI-driven management system
-- 💬 Talk to me about coding, cloud computing, security, and podcasts 
+- 💬 Talk to me about coding, child online protection, cyber-security, and true crime podcasts
+- 👯 Member of International Information System Security Certification Consortium (ISC2) and BaddiesinTech
 - 📫 How to reach me: nyathirakanga@gmail.com
-- ⚡ Checkout my [Linkedin](https://www.linkedin.com/in/christine-nyathira-kanga/) profile if you want to connect!
+- 🔗 Let's connect on [Linkedin](https://www.linkedin.com/in/christine-nyathira-kanga/)!
 <!--
 **Languages and Tools:** 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
